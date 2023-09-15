@@ -75,6 +75,10 @@ I don't want to have to think about it, and probably neither do you.
 * [gutentags_plus](https://github.com/skywind3000/gutentags_plus): handles
   switching between `cscope` databases automatically before performing a search
   query.
+  > before neovim<0.9.0 can use this
+* [cscope_maps](https://github.com/qytang2014/cscope_maps.nvim): handles switching handles
+  switching between `cscope` and `gtags-cscope` databases
+  > after neovim >=0.9.0 can use this
 
 [Pathogen]: https://github.com/tpope/vim-pathogen
 [ctrlp]: https://github.com/kien/ctrlp.vim
